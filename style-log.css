@@ -1,0 +1,65 @@
+.app{
+    background-color: rgba(247, 244, 244, 0.575);
+    width: 175px;
+    height: 375px;
+    padding: 150px;
+    margin: auto;
+    border-color: black;
+}
+.imagen {
+    display: block;
+
+    padding: 10px 20 px;
+    border-radius: 20px;
+    width: 125px;
+    height: 125px;
+    
+    margin: auto;
+}
+
+.iniciarsesion{
+    font-family: 'Lato', sans-serif;
+    text-align: center;
+
+}
+.bot.usuario {
+    
+    border-bottom: thistle;
+    margin: auto;
+    padding: 50px;
+    font-family: 'Lato', sans-serif;
+}
+.bot.contraseña{
+    
+    border-bottom: thistle;
+    margin: auto;
+    padding: 50px;
+    font-family: 'Lato', sans-serif;
+    
+}
+
+.btn { 
+    background-color: #9DDAC6;
+    color: white;
+    font-family: 'Lato', sans-serif;
+    border-radius: 5px;
+    border-color: #5d9790;
+    padding: 10px 15px;
+    cursor: pointer;
+    border-style: none;
+    margin-left: 45px;
+    }
+.btn:hover{
+    background: #33a08e;
+}
+.forgot{
+    color: rgb(221, 221, 221);
+    text-decoration: none;
+    margin-left: 17px;
+} 
+.forgot:hover{
+    color: rgb(54, 54, 54);
+    text-decoration-line: underline;
+}
+
+    
